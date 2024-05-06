@@ -1,0 +1,15 @@
+.color-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.color-button:hover {
+  opacity: 0.8;
+}
+.a1 {
+  margin-top: 1000px;
+}
